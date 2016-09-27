@@ -1,0 +1,3 @@
+<resources>
+    <string name="firebase_persondata_url">"https://sample-66141.firebaseio.com/persons.json"</string>
+</resources>
